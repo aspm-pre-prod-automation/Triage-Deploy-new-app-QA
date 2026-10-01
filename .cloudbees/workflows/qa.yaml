@@ -13,3 +13,4 @@ jobs:
           labels: QA2
           artifact-id: 50200552-9ec3-497f-8c15-b1f3789dce63
           target-environment: pre-prod-env
+          
