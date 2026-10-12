@@ -11,6 +11,6 @@ jobs:
       - uses: cloudbees-io/register-deployed-artifact@v2
         with:
           labels: QA2
-          artifact-id: 50200552-9ec3-497f-8c15-b1f3789dce63
+          artifact-id: c597e15c-4f7b-4431-a793-012eb423f115
           target-environment: pre-prod-env
         
